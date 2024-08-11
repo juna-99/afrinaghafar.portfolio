@@ -12,6 +12,6 @@
 
 Developed a machine learning model for predicting student performance, leveraging various factors to provide early intervention strategies using Python. Implemented a Flask web application to deliver insights through a user-friendly interface, and deployed it on AWS Cloud for scalability and reliability. This project led to more accurate identification of at-risk students, demonstrating the potential of data-driven approaches in educational outcomes. The automated process enhances decision-making by offering precise predictions and actionable insights.
 
-![Student Performance] (portfolio_img/student performance.png)
+![Student Performance](portfolio_img/student performance.png)
 
 
