@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, AWS, Microsoft Power BI, R, MongoDB
 
 ## Education					       		
-- Master in Science (Data Science)	| Universiti Teknologi Malaysia (_Mar 2023-Jul 2024_)
-- Bachelor of Science in Petroleum Chemistry with Honours| Universiti Putra Malaysia (_Sep 2018-Jul 2022_)
+- M.S (Data Science)	| Universiti Teknologi Malaysia (_Mar 2023-Jul 2024_)
+- B.S Petroleum Chemistry with Honours| Universiti Putra Malaysia (_Sep 2018-Jul 2022_)
 
 ## Projects
 ### Student Performance Prediction
