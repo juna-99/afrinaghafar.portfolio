@@ -19,6 +19,6 @@ Developed a machine learning model for predicting student performance, leveragin
 
 Developed a deep learning model for Chicken Disease Classification using TensorFlow and Keras. The project involved creating an end-to-end pipeline that ingested data from GitHub, trained a VGG16 model on images of chicken feces, and deployed the model on AWS using GitHub Actions for CI/CD. The model achieved high accuracy in distinguishing between healthy and infected samples, demonstrating the effectiveness of transfer learning in medical diagnostics. This work highlights the potential of leveraging image classification to enhance poultry health management and streamline disease detection processes.
 
-![portfolio_img/chicken disease.pn](portfolio_img/chicken%20disease.png)
+![chicken](portfolio_img/chicken%20(1).png)
 
 
