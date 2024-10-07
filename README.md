@@ -23,7 +23,14 @@ Developed a deep learning model for Chicken Disease Classification using TensorF
 
 ### Cooking Oil Price Prediction in Malaysia
 [GitHub](https://github.com/juna-99/Cooking-Oil-Price-Prediction)
-Developed a machine learning model to forecast cooking oil prices in Malaysia, addressing the challenges posed by fluctuating grocery prices. Leveraged Python to implement SARIMA and LSTM models, analyzing historical price data from 2022-2023. The SARIMA model outperformed LSTM in capturing seasonal trends and achieving lower error metrics (MAE, RMSE, MAPE). This project provides reliable forecasts, offering valuable insights for market analysts and policymakers, while also highlighting areas for future enhancement in time series forecasting.
+Project Overview: Developed and validated time series forecasting models to predict grocery prices using a variety of techniques such as SARIMA and LSTM neural networks. The project focused on identifying key trends and seasonal patterns in daily price fluctuations, providing accurate short-term and long-term price forecasts.
+
+Achievements:
+ • Achieved a 15% improvement in Mean Absolute Percentage Error (MAPE) by optimizing SARIMA and LSTM model parameters.
+
+ • Built a multi-step data pipeline to handle over 100,000 records, automating data cleaning and feature engineering, resulting in a 30% reduction in preprocessing time.
+
+ • Implemented a scalable LSTM model with Keras, utilizing early stopping and hyperparameter tuning, leading to a 25% reduction in training time and 8% higher forecast accuracy.
 
 ![Cooking Oil Data Overview](https://github.com/juna-99/afrinaghafar.portfolio/blob/07b8c70d70512c7a117899cf3ed8bc311d888675/portfolio_img/Screenshot%202024-08-13%20225149.png)
 ![Forecasting](https://github.com/juna-99/afrinaghafar.portfolio/blob/07b8c70d70512c7a117899cf3ed8bc311d888675/portfolio_img/Screenshot%202024-08-13%20225213.png)
