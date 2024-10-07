@@ -26,6 +26,7 @@ Developed a deep learning model for Chicken Disease Classification using TensorF
 Project Overview: Developed and validated time series forecasting models to predict grocery prices using a variety of techniques such as SARIMA and LSTM neural networks. The project focused on identifying key trends and seasonal patterns in daily price fluctuations, providing accurate short-term and long-term price forecasts.
 
 Achievements:
+
  • Achieved a 15% improvement in Mean Absolute Percentage Error (MAPE) by optimizing SARIMA and LSTM model parameters.
 
  • Built a multi-step data pipeline to handle over 100,000 records, automating data cleaning and feature engineering, resulting in a 30% reduction in preprocessing time.
